@@ -1,4 +1,4 @@
-Node.js with Typescript Template
+[WIP] Node.js with Typescript Template
 --------
 
 **Dependencies**
